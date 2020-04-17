@@ -1,6 +1,6 @@
 # My first React App
 
-THis is an example List
+This is an example List
 * This is the first thing in the list
 * This is the second thing in the list
 * This is the third thing in the list
